@@ -1,0 +1,53 @@
+body {
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.contentPanel > p > .btn {
+  margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
+}
+
+#recentPanelTable > ul {
+	width:auto;
+}
+
+#recentPanelTable {
+	width:auto;
+	overflow: scroll;
+}
+
+.navbar .navbar-toggle .icon-bar {
+    background-color: #337ab7;
+}
+.navbar{
+		background-color: white;
+		background-image: none;
+	
+}
+.jumbotron{
+	margin-bottom: 0px;
+  height: 350px;
+  color: white;
+  text-shadow: black 0.3em 0.3em 0.3em;
+  background:transparent
+}
+.bg {
+  background: url('http://www.highervisibility.com/wp-content/uploads/2012/09/linking.jpg') no-repeat center center;
+  position: fixed;
+  width: 100%;
+  background-size: cover;
+  height: 350px; /*same height as jumbotron */
+  top:0;
+  left:0;
+  z-index: -1;
+}
