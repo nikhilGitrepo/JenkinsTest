@@ -14,7 +14,7 @@ function setFrameHeight(){
 }
 </script>
 
-<title>URLShortener - Microservices - Jenkins</title>
+<title>URLShortener - Microservices</title>
 
 
 
